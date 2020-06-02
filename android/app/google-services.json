@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692138369416",
+    "firebase_url": "https://apni-sawari-5d4fc.firebaseio.com",
+    "project_id": "apni-sawari-5d4fc",
+    "storage_bucket": "apni-sawari-5d4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692138369416:android:d8394c2cfb3eb2c3805a3d",
+        "android_client_info": {
+          "package_name": "com.example.apni_sawari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692138369416-povcjqh52iu8qgu1sl7guq7lbect2f3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apni_sawari",
+            "certificate_hash": "a157c994b8bfe6f7f2388719b1e06669e9704d75"
+          }
+        },
+        {
+          "client_id": "692138369416-2qmhv3udakvtl6sfjavb5s5q6c8d9hmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNpY6LGWgHqRfTRZsKkVhocYOaER325w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692138369416-2qmhv3udakvtl6sfjavb5s5q6c8d9hmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
